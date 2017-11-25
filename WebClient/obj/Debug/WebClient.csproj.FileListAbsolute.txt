@@ -1,0 +1,6 @@
+C:\Proyectos\Web\RestService_POST\WebClient\bin\WebClient.dll.config
+C:\Proyectos\Web\RestService_POST\WebClient\bin\WebClient.dll
+C:\Proyectos\Web\RestService_POST\WebClient\bin\WebClient.pdb
+C:\Proyectos\Web\RestService_POST\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Proyectos\Web\RestService_POST\WebClient\obj\Debug\WebClient.dll
+C:\Proyectos\Web\RestService_POST\WebClient\obj\Debug\WebClient.pdb

@@ -1,0 +1,6 @@
+C:\Proyectos\Web\RestService_POST\RestService\bin\RestService.dll.config
+C:\Proyectos\Web\RestService_POST\RestService\bin\RestService.dll
+C:\Proyectos\Web\RestService_POST\RestService\bin\RestService.pdb
+C:\Proyectos\Web\RestService_POST\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Web\RestService_POST\RestService\obj\Debug\RestService.dll
+C:\Proyectos\Web\RestService_POST\RestService\obj\Debug\RestService.pdb
